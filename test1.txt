@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 727E-F607
-
- Directory of C:\Users\Sarwan Nizamani\Desktop\test
-
-04/07/2019  10:42 PM    <DIR>          .
-04/07/2019  10:42 PM    <DIR>          ..
-04/07/2019  10:42 PM    <DIR>          .git
-04/07/2019  10:42 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  72,062,578,688 bytes free
+change 1
